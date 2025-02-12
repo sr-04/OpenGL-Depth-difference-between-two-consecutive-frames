@@ -5,3 +5,5 @@
 ###  2.	Creates a rotating cube to generate depth changes.
 ###  3.	Reads depth buffer values each frame.
 ###  4.	Compares depth values between two frames and prints significant differences.
+
+## Will come up with how to run and setup for opengl soon
